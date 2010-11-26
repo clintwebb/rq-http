@@ -1,0 +1,2 @@
+HTTP interface to send data requests to appserver interfaces on RQ message queues.
+
